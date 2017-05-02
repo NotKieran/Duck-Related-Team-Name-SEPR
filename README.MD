@@ -1,4 +1,5 @@
-# DRTN SEPR
+# Duck related team name in big massive letters
+## SEPR Assessments 2,3 and 4.
 
 This project took place Autumn 2016 to Summer 2017.  The module is described [here](https://www.cs.york.ac.uk/undergraduate/modules/sepr.html)
 
