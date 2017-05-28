@@ -1,4 +1,4 @@
-#DRTN & Fractal
+# DRTN & Fractal
 Team: [Kieran Hall](https://github.com/NotKieran), [Jack Mountain](https://github.com/jm179796), [Nico Pinedo](https://github.com/NicoPinedo), [Martynas Minskis](https://github.com/mm1544), [Joseph Leakey](https://github.com/MisterSeph).
 
 
